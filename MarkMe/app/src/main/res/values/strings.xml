@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MarkMe</string>
+    <string name="login">LogIn</string>
+    <string name="logout">Logout</string>
+    <string name="retry">Retry</string>
+    <string name="process">Process</string>
 </resources>
