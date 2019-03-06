@@ -1,4 +1,4 @@
-<h1>MarkMe - A Face recognization application to maintain attendence of employees</h1> 
+<h1>MarkMe - A Face recognization application</h1> 
 
 <h3>How?</h3>
 <p>Using Microsoft Azure Face API,https://docs.microsoft.com/en-in/azure/cognitive-services/face/overview.</p>
